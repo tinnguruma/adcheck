@@ -1,3 +1,3 @@
 # adcheck
 
-https://tinguruma.github.io/adcheck
+https://tinnguruma.github.io/adcheck
